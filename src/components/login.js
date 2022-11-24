@@ -44,7 +44,7 @@ function Login() {
     <div className='cont'>
     <Link to='/land'>
     
-    <Button variant="contained" type="submit" style={{backgroundColor:"white",color:"black" }}>Continue</Button>
+    <Button variant="contained" type="submit" style={{backgroundColor:"white",color:"black" }} >Continue</Button>
     </Link>
     </div>
     <div className='cns'>
